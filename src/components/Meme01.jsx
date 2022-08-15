@@ -1,7 +1,7 @@
 import React from 'react';
 import memesData from "../data/memesData.js"
 
-export default function Meme() {
+export default function Meme01() {
     
     // set the first State
     const [meme, setMeme] = React.useState(
