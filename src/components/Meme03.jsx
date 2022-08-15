@@ -39,9 +39,9 @@ export default function Meme03() {
 
         getMemes()
     
-        return () => {
-        // cleanup code here
-        }
+        // return () => {
+        //      cleanup code here
+        // }
 
     }, [])
 
